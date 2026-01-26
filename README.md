@@ -158,7 +158,7 @@ chmod +x quick-start.sh
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Price Discovery
-![Price Discovery](./screenshots/price-discovery.png)
+![Price Discovery](./screenshots/price.png)
 
 ### Chat Interface
 ![Chat Interface](./screenshots/chat.png)
