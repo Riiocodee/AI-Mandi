@@ -1,7 +1,5 @@
 # 🚀 AI Mandi - Multilingual Smart Market Assistant
 
-> **Hackathon MVP** - Built with Kiro AI for seamless development
-
 ## 🎯 Problem Statement
 
 Local vendors and buyers in Indian markets face significant communication barriers due to language differences, lack of fair price discovery mechanisms, and inefficient negotiation processes. This leads to:
@@ -284,4 +282,4 @@ For questions or support:
 
 ---
 
-**Built with ❤️ using Kiro AI** | **Hackathon Ready** | **Production Scalable**
+**Built with ❤️ using Kiro AI** | **Production Scalable**
