@@ -1,0 +1,150 @@
+[
+  {
+    "id": "prod_001",
+    "name": "tomato",
+    "category": "vegetables",
+    "quantity": 50,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T10:30:00.000Z",
+    "userId": "vendor_001",
+    "description": "Fresh red tomatoes from local farm",
+    "location": "Delhi",
+    "status": "active"
+  },
+  {
+    "id": "prod_002",
+    "name": "onion",
+    "category": "vegetables",
+    "quantity": 100,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T11:00:00.000Z",
+    "userId": "vendor_002",
+    "description": "Premium quality onions",
+    "location": "Mumbai",
+    "status": "active"
+  },
+  {
+    "id": "prod_003",
+    "name": "apple",
+    "category": "fruits",
+    "quantity": 25,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T12:00:00.000Z",
+    "userId": "vendor_001",
+    "description": "Kashmiri apples, sweet and crispy",
+    "location": "Delhi",
+    "status": "active"
+  },
+  {
+    "id": "prod_004",
+    "name": "banana",
+    "category": "fruits",
+    "quantity": 200,
+    "unit": "pieces",
+    "submittedAt": "2024-01-15T13:00:00.000Z",
+    "userId": "vendor_003",
+    "description": "Ripe bananas from Kerala",
+    "location": "Kochi",
+    "status": "active"
+  },
+  {
+    "id": "prod_005",
+    "name": "rice",
+    "category": "grains",
+    "quantity": 500,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T14:00:00.000Z",
+    "userId": "vendor_004",
+    "description": "Basmati rice, premium quality",
+    "location": "Punjab",
+    "status": "active"
+  },
+  {
+    "id": "prod_006",
+    "name": "milk",
+    "category": "dairy",
+    "quantity": 100,
+    "unit": "liters",
+    "submittedAt": "2024-01-15T15:00:00.000Z",
+    "userId": "vendor_005",
+    "description": "Fresh cow milk, organic",
+    "location": "Haryana",
+    "status": "active"
+  },
+  {
+    "id": "prod_007",
+    "name": "potato",
+    "category": "vegetables",
+    "quantity": 75,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T16:00:00.000Z",
+    "userId": "vendor_002",
+    "description": "Fresh potatoes, good for cooking",
+    "location": "Mumbai",
+    "status": "active"
+  },
+  {
+    "id": "prod_008",
+    "name": "mango",
+    "category": "fruits",
+    "quantity": 30,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T17:00:00.000Z",
+    "userId": "vendor_006",
+    "description": "Alphonso mangoes, seasonal special",
+    "location": "Maharashtra",
+    "status": "active"
+  },
+  {
+    "id": "prod_009",
+    "name": "dal",
+    "category": "grains",
+    "quantity": 50,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T18:00:00.000Z",
+    "userId": "vendor_004",
+    "description": "Mixed dal, protein rich",
+    "location": "Punjab",
+    "status": "active"
+  },
+  {
+    "id": "prod_010",
+    "name": "paneer",
+    "category": "dairy",
+    "quantity": 10,
+    "unit": "kg",
+    "submittedAt": "2024-01-15T19:00:00.000Z",
+    "userId": "vendor_005",
+    "description": "Fresh homemade paneer",
+    "location": "Haryana",
+    "status": "active"
+  },
+  {
+    "id": "prod_1769419342247_d23z5v0c4",
+    "name": "fresh spinach",
+    "category": "vegetables",
+    "quantity": 20,
+    "unit": "kg",
+    "userId": "demo_vendor",
+    "description": "Fresh organic spinach from local farm",
+    "location": "Demo City",
+    "submittedAt": "2026-01-26T09:22:22.247Z",
+    "status": "active"
+  },
+  {
+    "id": "1769429207620",
+    "name": "Tomatoes",
+    "quantity": 10,
+    "unit": "kg",
+    "submittedAt": "2026-01-26T12:06:47.620Z",
+    "userId": "anonymous"
+  },
+  {
+    "id": "1769430208992",
+    "name": "Tomatoes",
+    "quantity": 10,
+    "unit": "kg",
+    "submittedAt": "2026-01-26T12:23:28.992Z",
+    "userId": "anonymous"
+  }
+]

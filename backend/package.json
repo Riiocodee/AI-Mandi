@@ -1,0 +1,43 @@
+{
+  "name": "ai-mandi-backend",
+  "version": "1.0.0",
+  "description": "Backend server for AI Mandi - Multilingual Smart Market Assistant",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "test:socket": "node --experimental-vm-modules node_modules/jest/bin/jest.js socket.test.js",
+    "test:integration": "node --experimental-vm-modules node_modules/jest/bin/jest.js integration.test.js",
+    "validate": "node --check src/server.js",
+    "validate:socket": "node validate-socket.js",
+    "setup-check": "node ../validate-setup.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.6.2",
+    "supertest": "^6.3.3",
+    "socket.io-client": "^4.7.2",
+    "fast-check": "^3.12.0"
+  },
+  "keywords": [
+    "ai",
+    "market",
+    "multilingual",
+    "translation",
+    "price-discovery",
+    "negotiation",
+    "hackathon"
+  ],
+  "author": "AI Mandi Team",
+  "license": "MIT"
+}

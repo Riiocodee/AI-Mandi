@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "category": "fruits",
+    "name": "apple"
+  },
+  {
+    "id": 2,
+    "category": "vegetables",
+    "name": "tomato"
+  },
+  {
+    "id": 3,
+    "category": "fruits",
+    "name": "banana"
+  }
+]

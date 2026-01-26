@@ -1,0 +1,207 @@
+[
+  {
+    "id": "price_001",
+    "productName": "tomato",
+    "price": 45,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_002",
+    "productName": "onion",
+    "price": 30,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_003",
+    "productName": "potato",
+    "price": 25,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_004",
+    "productName": "apple",
+    "price": 120,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_005",
+    "productName": "banana",
+    "price": 40,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_006",
+    "productName": "rice",
+    "price": 50,
+    "unit": "kg",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_007",
+    "productName": "milk",
+    "price": 55,
+    "unit": "liters",
+    "date": "2024-01-15T10:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_008",
+    "productName": "tomato",
+    "price": 48,
+    "unit": "kg",
+    "date": "2024-01-16T10:30:00.000Z",
+    "source": "market_data",
+    "location": "mumbai"
+  },
+  {
+    "id": "price_009",
+    "productName": "onion",
+    "price": 32,
+    "unit": "kg",
+    "date": "2024-01-16T10:30:00.000Z",
+    "source": "market_data",
+    "location": "mumbai"
+  },
+  {
+    "id": "price_010",
+    "productName": "potato",
+    "price": 28,
+    "unit": "kg",
+    "date": "2024-01-16T10:30:00.000Z",
+    "source": "market_data",
+    "location": "mumbai"
+  },
+  {
+    "id": "price_011",
+    "productName": "mango",
+    "price": 80,
+    "unit": "kg",
+    "date": "2024-01-16T11:00:00.000Z",
+    "source": "market_data",
+    "location": "maharashtra"
+  },
+  {
+    "id": "price_012",
+    "productName": "dal",
+    "price": 85,
+    "unit": "kg",
+    "date": "2024-01-16T11:30:00.000Z",
+    "source": "market_data",
+    "location": "punjab"
+  },
+  {
+    "id": "price_013",
+    "productName": "paneer",
+    "price": 300,
+    "unit": "kg",
+    "date": "2024-01-16T12:00:00.000Z",
+    "source": "market_data",
+    "location": "haryana"
+  },
+  {
+    "id": "price_014",
+    "productName": "tomato",
+    "price": 42,
+    "unit": "kg",
+    "date": "2024-01-17T10:30:00.000Z",
+    "source": "user_input",
+    "location": "bangalore"
+  },
+  {
+    "id": "price_015",
+    "productName": "apple",
+    "price": 115,
+    "unit": "kg",
+    "date": "2024-01-17T11:00:00.000Z",
+    "source": "user_input",
+    "location": "kashmir"
+  },
+  {
+    "id": "price_016",
+    "productName": "banana",
+    "price": 35,
+    "unit": "kg",
+    "date": "2024-01-17T11:30:00.000Z",
+    "source": "user_input",
+    "location": "kerala"
+  },
+  {
+    "id": "price_017",
+    "productName": "rice",
+    "price": 52,
+    "unit": "kg",
+    "date": "2024-01-17T12:00:00.000Z",
+    "source": "ai_suggestion",
+    "location": "punjab"
+  },
+  {
+    "id": "price_018",
+    "productName": "milk",
+    "price": 58,
+    "unit": "liters",
+    "date": "2024-01-17T12:30:00.000Z",
+    "source": "ai_suggestion",
+    "location": "haryana"
+  },
+  {
+    "id": "price_019",
+    "productName": "carrot",
+    "price": 40,
+    "unit": "kg",
+    "date": "2024-01-17T13:00:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_020",
+    "productName": "cabbage",
+    "price": 20,
+    "unit": "kg",
+    "date": "2024-01-17T13:30:00.000Z",
+    "source": "market_data",
+    "location": "delhi"
+  },
+  {
+    "id": "price_1769419342254_uy4jfjaeu",
+    "productName": "fresh spinach",
+    "price": 35,
+    "unit": "kg",
+    "source": "user_input",
+    "location": "Demo City",
+    "date": "2026-01-26T09:22:22.254Z"
+  },
+  {
+    "productName": "Tomatoes",
+    "price": 50,
+    "unit": "kg",
+    "date": "2026-01-26T12:06:47.621Z",
+    "source": "ai_suggestion",
+    "location": "general"
+  },
+  {
+    "productName": "Tomatoes",
+    "price": 50,
+    "unit": "kg",
+    "date": "2026-01-26T12:23:28.993Z",
+    "source": "ai_suggestion",
+    "location": "general"
+  }
+]
