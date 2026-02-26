@@ -1,6 +1,6 @@
-# 🚀 AI Mandi - Multilingual Smart Market Assistant
+#  AI Mandi - Multilingual Smart Market Assistant
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Local vendors and buyers in Indian markets face significant communication barriers due to language differences, lack of fair price discovery mechanisms, and inefficient negotiation processes. This leads to:
 
